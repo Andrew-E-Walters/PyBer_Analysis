@@ -18,7 +18,7 @@ Some intresting take aways are the Total Rides, Total Drivers, and Total Fares a
 From our ealier analyis we know that we can expect to see some differences in the data based on city type. 
 
 ### Total Weekly Fares for each type of city
-![Weekly Graph](https://github.com/Andrew-E-Walters/PyBer_Analysis/blob/main/analysis/Pyber_Summary.png)
+![Weekly Graph](https://github.com/Andrew-E-Walters/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 We can see a distinct difference in each city type. The easiest to see is that there is a clear diffrence in totals of each fare for each city type. Urban has the highest total fares and Rural has the lowest fares. While this does show a good breakdown of how the cities differ in total fares I do have some recomendations. 
 
